@@ -11,6 +11,10 @@ and reliable backend applications.
 Java | Spring Boot | Spring Data JPA | Hibernate
 MySQL | REST API | Maven | Git | GitHub | Postman
 
+
+![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,git,github)
+
+
 📌 Featured Projects
 
 🚛 FleetTrack Management System
