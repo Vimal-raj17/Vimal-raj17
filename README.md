@@ -1,16 +1,31 @@
 ## Hi there 👋
+👋 Hi, I'm Vimal Raj
 
-<!--
-**Vimal-raj17/Vimal-raj17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Backend Developer | Spring Boot Developer
 
-Here are some ideas to get you started:
+🚀 About Me
+I am a Java Backend Developer interested in building scalable
+and reliable backend applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technical Skills
+Java | Spring Boot | Spring Data JPA | Hibernate
+MySQL | REST API | Maven | Git | GitHub | Postman
+
+📌 Featured Projects
+
+🚛 FleetTrack Management System
+Vehicle fleet management application.
+Tech: Java / Android / Gradle
+
+🧾 Invoice Management API
+Invoice and client management REST API.
+Tech: Java / Spring Boot / MySQL
+
+🛒 E-Commerce Backend
+Backend application for e-commerce functionality.
+Tech: Java / Spring Boot / JPA / MySQL
+
+📫 Connect With Me
+LinkedIn
+GitHub
+Email
